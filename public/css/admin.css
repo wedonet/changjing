@@ -1,0 +1,44 @@
+.floatleft{
+	display:inline;
+	float:left;
+}
+
+.floatright{
+	display:inline;
+	float:right;
+}
+
+.clear {
+	visibility: hidden;
+	background: #fff;
+	color: #fff;
+	clear: both;
+	margin: 0;
+	/*
+	clear: both;
+	height:1px;
+	font-size:1px;
+	margin-top:-1px;
+	overflow:hidden;
+	*/
+}
+.clearfix:after {
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden;
+}
+.clearfix { display: inline-block; }
+/* required comment for clearfix to work in Opera \*/
+* html .clearfix { height:1%; }
+.clearfix { display:block; }
+/* end clearfix */
+
+
+.toptip{
+	
+	padding:7px;
+
+	background:#eee;
+}

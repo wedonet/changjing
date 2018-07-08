@@ -1,0 +1,164 @@
+.margintop1{
+	margin-top:10px;
+	}
+
+.bgbody {
+	/*background:#e7e7e7 url(/images/w/bg.png) no-repeat top center;*/
+	background:#f1f1f1;
+}
+.main {
+	width:1420px;
+}
+.logo {
+	margin:0px 0 3px 0;
+}
+.nav .caption a span {
+	display:block;
+	font-weight:bold;
+}
+.nav .caption a {
+	display:inline-block;
+	text-align:center;
+
+	width:49%;
+}
+.nav .caption a.l {
+	overflow:hidden;
+	float:left;
+}
+.nav .caption a.r {
+	overflow:hidden;
+	float:right;
+}
+.nav .sm {
+	font-size:9px;
+}
+
+
+/*边栏*/
+.side .nav{
+	margin:0 0 15px 0;
+	}
+.side .enter .btn{
+	font-weight:bold;
+	}	
+.side .enter a{
+	padding:10px 0 7px 70px;
+	font-size:18px;
+	text-align:left;
+	}
+	
+.side .enter span{
+	display:block;
+
+	}
+.side .icon{
+	display:inline;
+	float:left;
+	margin:5px 0 0 20px;
+	font-size:19px;
+	}	
+
+.side .title{
+	font-size:18px;
+	}
+.side i{
+	display:block;
+	font-size:12px;
+	font-style:normal;
+	}	
+	
+	
+	
+	
+	
+.list1 li{
+	margin:0 0 12px 0;
+
+	}	
+	
+/*list2*/	
+.list2 .title{
+	font-weight:bold;
+	font-size:16px;
+	margin:0 0 2px 0;
+	
+	}	
+.list2 .info{
+	color:#bbb;
+	font-size:12px;
+	margin:0 0 4px 0;
+	}	
+.list2 .f{
+	display:inline;
+	float:left;
+	}	
+.list2 .r{
+	display:inline;
+	float:right;
+	}		
+.list2 .text{
+
+	font-size:14px;
+}	
+
+
+.test1{}	
+
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    padding-right: 7px;
+    padding-left: 7px;
+}
+
+/*选项卡*/
+.tabcolor2{
+	margin-bottom:7px;
+	border-color:#fff;
+}
+.tabcolor2 li a{
+	padding-left:60px;
+	padding-right:60px;
+}
+
+
+/*table*/
+.tableinfo1{
+	width:100%;
+}
+.tableinfo1 th{
+
+	color:#bbb;
+	padding:5px 0;
+}
+.tableinfo1 td{
+
+	padding:5px 0;
+}
+
+/*title*/
+.title1{
+	font-size:16px;
+	font-weight:bold;
+	border-bottom:1px solid #bbb;
+	height:30px; 
+	line-height:30px;
+	margin-bottom:18px;
+}
+
+.list1{
+
+}
+.list1 .text{
+	font-size:14px;
+}
+
+/*首行缩进*/
+.textindent{
+	text-indent:30px;
+}
+
+/*小提醒*/
+.plustip{
+	color:gray;
+	font-size:12px;
+}

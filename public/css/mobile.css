@@ -1,0 +1,45 @@
+.top1 {
+	margin-top:30%;
+}
+.top2 {
+	margin-top:15%;
+}
+
+
+/* messagePrompt 消息提示 */
+.messagePrompt{
+    position:fixed;
+
+    min-width:150px;
+	padding:15px 25px;
+	border:1px solid #ddd;
+	border-radius: 4px;
+
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+	text-align: center;
+	z-index: 9999;
+
+}
+
+.messagePrompt li,.messagePromptLogin li{
+	list-style:none;
+}
+.messagePrompt ul,.messagePromptLogin ul{
+	padding:0;
+}
+.form .messagePromptLogin{
+    width:100%;
+    text-align: center;
+    top:10%;
+    left:0;
+    transform: translateX(0);
+}
+
+.alarm.messagePrompt{
+	border-color:red;
+}
+.messagePrompt{
+	border-color:green;
+}
