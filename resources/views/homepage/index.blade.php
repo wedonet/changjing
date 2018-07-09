@@ -42,8 +42,20 @@ require_once(base_path().'/resources/views/init.blade.php');
 
 <body>
 
+<div class="container-fluid">
+ 内镜检查辅助终端
+</div>
 
 
+<div class=" login">
+	<div class="container">
+		<div class="row">
+		  <div class="col-md-8"><image src="/images/login1.jpeg" /></div>
+		  <div class="col-md-4">.col-md-4</div>
+		</div>
+
+ 	</div>
+</div>
 
 </body>
 </html>
